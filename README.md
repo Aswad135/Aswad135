@@ -3,8 +3,11 @@
 You've reacehed Aswad's Profile. He is a Software Engineering Graduate working as a professional since April 2021. Currently he is working as a Java Backend Developer at [2iQ Research](https://www.2iqresearch.com/ "2iQ Research | Homepage"). Before that he was working as a freelancer for about 1.5 years. 
 
  🔭 He is currently working on Java Spring Boot to make efficient and robust Backend applications.
+ 
  🔭 He is also currently working on Angular to make Frontend applications that consume Restful APIs.
+ 
  🌱 He is currently learning DevOps and looking for expert guidance if you wish to share some knowledge then you may contact him on [Aswad Abbas](mailto:aswad.imvu@gmail.com?subject=[GitHub]%20About%20Me).
+ 
   📫 How to reach him: Contact him on [LinkedIn](https://www.linkedin.com/in/aswad135/)
 <!--
 **Aswad135/Aswad135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
