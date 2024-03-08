@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You've reached Aswad's Profile. He is a Software Engineering Graduate working as a professional since April 2021. Currently, he is working as a Full Stack Web Developer (Java SpringBoot | Angular). Before that, he was working as a freelancer for about 3 years. 
+You've reached Aswad's Profile. He is a Software Engineering Graduate working as a Senior Software Engineer at multiple MNCs including [Telenor Microfinance Bank](https://www.telenor.com/about/our-companies/asia/telenor-financial-services/), [Photogauge](https://photogauge.com/) and [2iQ Research](https://www.2iqresearch.com/). Currently, he is working as a Full Stack Web Developer (Java SpringBoot | Angular | NextJs). He has also working experience with AWS services and has worked on several services like EC2, S3, Lambda and many others. Before all this, he was working as a freelancer for about 3 years. 
 
  🔭 He is currently working on Java Spring Boot to make efficient and robust Backend applications.
  
